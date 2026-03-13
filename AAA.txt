@@ -1,0 +1,96 @@
+سماع فيديو + ملاحظات + تطبيق
+تطبيق الملاحظات
+
+
+# week 6 (Arrays And Methods):
+40- (3:52)
+41- (4:00)
+42- (4:06)
+43- (4:11)
+44- (4:16)
+45- (4:19)
+46- (4:26)
+47- (4:29)
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# Functions  (week 8 , 9 , 10)
+call back function
+
+# array methods (week 10 , 17 )
+
+# array (week 6)
+
+# object (week 11 , 13 , 14)
+
+
+# variables - hoisting - TDZ (week 2)
+# data types - stack - heap (week 2)
+
+# Operators (week 3)
+# string , number (week 4)
+# condition (week 5)
+# loops (week 7)
+# Local Storage (week 15)
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+// FUNCTIONS //
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+    #
+    -
+    -
+*/
+
+/*
+    - EX:
+    
+    - EX:
+    
+    - EX:
+
+*/
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+    #
+    -
+    -
+*/
+
+/*
+    - EX:
+    
+    - EX:
+    
+    - EX:
+    
+*/
+
+
+
+…or create a new repository on the command line
+echo "# JS-Assignments" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohamed-aboelwafa/JS-Assignments.git
+git push -u origin main
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/mohamed-aboelwafa/JS-Assignments.git
+git branch -M main
+git push -u origin mai

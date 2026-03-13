@@ -1,0 +1,43 @@
+// string //
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+    ## escape sequences:
+    # "\" : escape the char that after it
+    - ex:
+    console.log("\"Mohamed Aboelwafa\""); // "Mohamed Aboelwafa"
+    console.log("\\"); // \
+    console.log("\Mohamed"); // ohamed
+
+    # "\n" : print new line
+    - ex:
+    console.log("mohamed\n"aboelwafa); // mohamed \n aboelwafa
+*/
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+/*
+    # to put a variable or code inside ` `:
+    - `${ variable or code}`
+*/
+
+/*
+    - EX:
+    let name = "sec"
+    console.log(`${name}`);
+    
+    - EX: 
+     console.log(`
+     
+     int main()
+     {
+        cout<<"hello world\n";
+     }
+     
+     `);
+*/
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

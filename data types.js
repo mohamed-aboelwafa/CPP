@@ -1,0 +1,97 @@
+
+// Data Types //
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+   # primitive data types: - stored in stack - in-mutable - change address
+
+   -  name       -  data type  -  value
+      string     -  string     -  "text" or 'text'
+      number     -  number     -  23 or 23.9
+      NaN        -  number     -  NaN(Not a Number)
+      bool       -  bool       -  true or false
+      undefined  -  undefined  -  undefined
+
+   # non-primitive data types: - stored in heap - mutable - don't change address
+
+   -  name      -  data type   -  value
+      Array     -  object      -  [data , data , data]
+      object    -  object      -  {data , data , data}
+      null      -  object      -  null 
+*/
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+/* 
+   # stack - heap
+*/
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+   # to print the data type of data or variable:
+   - console.log(typeof(data or variable))
+*/
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+/*
+   # Concatenation:
+
+   # you can print and put more than 1 data type in the same variable
+
+*/
+
+
+/*
+   - EX:
+   let y = "mohamed"+" "+10+" "+true;
+   console.log(y);
+*/
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/* 
+   # Type Conversion:
+   -- manual
+   - number(x)
+   string "aklajl"--> number  // NaN
+   string "10" --> number // 10
+   BOOL --> number // 1 or 0
+
+   -- bool(x)
+   - truthy value : any number > 0 , " "
+   - falsey value : 0 , null , num<0 , undefined , "" , NaN
+
+   -- string(x)
+*/
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+   # Type coercion
+   number --> string in +
+   string --> number in all
+
+*/
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+/*
+    # to know if value falsy or truely
+    console.log(Boolean(""));
+
+
+*/
+
+/*
+    falsy and trusy values
+
+*/
